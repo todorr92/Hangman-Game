@@ -16,6 +16,8 @@ for i in range(7):
         r"C:\Users\Zver\Coding\Hangman Game\images\hangman" + str(i) + ".png")
     images.append(image)
 
+WHITE = (255, 255, 255)
+
 # game variables
 hangman_status = 0
 
@@ -29,7 +31,9 @@ while run:
     clock.tick(FPS)
 
     # change window color to white
-    window.fill((255, 255, 255))
+    window.fill(WHITE)
+    # draw images
+    window.blit(images[hangman_status], (150, 100))
     pygame.display.update()
 
     # checking events
