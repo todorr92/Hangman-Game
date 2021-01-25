@@ -4,7 +4,7 @@
 
 ## Deployment
 
-### Run this project using repl.it by clicking on [link](https://repl.it/@todorr92/Hangman-1#pyproject.toml)
+### Run this project using [repl.it](https://repl.it/~) by clicking on [link](https://repl.it/@todorr92/Hangman-1#pyproject.toml)
 
 ### Run this project locally
 
