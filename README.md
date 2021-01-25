@@ -1,6 +1,6 @@
 # Hangman-Game
 
-### Buliding Hangman game as a Python practice
+### Buliding Hangman game as a Python and Pygame practice
 
 ## Deployment
 
