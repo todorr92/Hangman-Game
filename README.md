@@ -4,6 +4,8 @@
 
 ## Deployment
 
+## Run this project using repl.it by clicking on [link](https://repl.it/@todorr92/Hangman-1#pyproject.toml)
+
 ### Run this project locally
 
 To run this project on your own IDE follow the instructions below:
